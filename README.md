@@ -11,6 +11,7 @@ This repository contains workbooks and data to anlyze blood pressure readings fo
 ## Workbooks
 
 * BP_Analysis.ipynb
+* [BP_Analysis.ipynb](BP_Analysis.ipynb)
 * Visualization.ipynb
 * DataGeneration.ipynb
 
