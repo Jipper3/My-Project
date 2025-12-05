@@ -9,8 +9,13 @@ This repository contains workbooks and data to anlyze blood pressure readings fo
 
 
 ## Workbooks
-BP_Analysis.ip
+
+* BP_Analysis.ipynb
+* Visualization.ipynb
+* DataGeneration.ipynb
+
 ## Data
+Random data in program. 
 
 ## References
 https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/blood-pressure/art-20050982
