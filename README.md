@@ -10,7 +10,6 @@ This repository contains workbooks and data to anlyze blood pressure readings fo
 
 ## Workbooks
 
-* BP_Analysis.ipynb
 * [BP_Analysis.ipynb](BP_Analysis.ipynb)
 * Visualization.ipynb
 * DataGeneration.ipynb
@@ -20,7 +19,7 @@ Random data in program.
 
 ## Visualizations
 
-![Blood pressure plot](images/bp.png)
+![Blood pressure plot](images/BP.png)
 
 
 
